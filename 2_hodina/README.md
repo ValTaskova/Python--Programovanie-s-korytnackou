@@ -4,7 +4,7 @@ Na hodine sme si zopakovali príkazy, ktoré nám zobrazili korytnačku, posúva
 farbu alebo hrúbku čiary, farbu pozadia, napísalo text a zapli alebo vypli pero. Taktiež sme si hľadali farby na internete, pričom na stránke https://trinket.io/docs/colors
 si vieme ľahko zistiť názov farby tým, že na ňu klikneme a skopírujeme jej názov, teda *Turtle name*.
 
-Príkazy z minulej hodiny:
+**Príkazy z minulej hodiny:**
 | Príkaz  | Preklad | Čo to znamená |
 | ------------- | ------------- | ------------- |
 | from turtle import *  | Z korytnačky načítaj *  | Načítaj všetky funkcie z knižnice Korytnačka |
@@ -15,7 +15,7 @@ Príkazy z minulej hodiny:
 | right(...)  | Doprava  | Otočí korytnačku doprava |
 | delay(...)  | Meškanie, oneskorenie  | Spomalí program (1 sekunda = 1000) |
 
-Príkazy z dnešnej hodiny:
+**Príkazy z dnešnej hodiny:**
 | Príkaz  | Preklad | Čo to znamená |
 | ------------- | ------------- | ------------- |
 | penup()  | Pero hore  | Vypne kreslenie |
@@ -25,7 +25,7 @@ Príkazy z dnešnej hodiny:
 | pensize(...)  | Hrúbka pera  | Nastaví hrúbku pera |
 | bgcolor(‘...‘)  | Farba pozadia  | Zmení farbu pozadia |
 
-*Tri bodky v zátvorkách znamenajú, že treba niečo doplniť*
+*Tri bodky v zátvorkách znamenajú, že treba niečo doplniť.*
 
 Príkaz *write* sme rozšírili, aby sme mohli zmeniť veľkosť písma, pričom vieme tiež nastaviť aj typ a štýl písma.
 ```python
