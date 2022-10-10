@@ -27,7 +27,7 @@ Príkazy z dnešnej hodiny:
 
 Príkaz *write* sme rozšírili, aby sme mohli zmeniť veľkosť písma, pričom vieme tiež nastaviť aj typ a štýl písma.
 ```python
-write("CIARA \"?\" ", font=("Arial", 30, "italic"))   #pismo moze byt normal, **bold**, *italic*
+write("CIARA \"?\" ", font=("Arial", 30, "italic"))   #pismo moze byt normal, bold, italic
 ```
 
 Tiež sme si ukázali ako vyplniť nejaký útvar farbou:
