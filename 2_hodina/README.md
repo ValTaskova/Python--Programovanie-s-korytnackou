@@ -20,10 +20,12 @@ Príkazy z dnešnej hodiny:
 | ------------- | ------------- | ------------- |
 | penup()  | Pero hore  | Vypne kreslenie |
 | pendown()  | Pero dole  | Zapne kreslenie |
-| pencolor(‘...‘)  | Pero hore  | Vypne kreslenie |
-| write(“…”)  | Pero dole  | Zapne kreslenie |
-| pensize(...)  | Pero hore  | Vypne kreslenie |
-| bgcolor(‘...‘)  | Pero dole  | Zapne kreslenie |
+| pencolor(‘...‘)  | Farba pera  | Zmení farbu pera |
+| write(“…”)  | Napíš  |	Napíše text tam, kde sa nachádza korytnačka |
+| pensize(...)  | Hrúbka pera  | Nastaví hrúbku pera |
+| bgcolor(‘...‘)  | Farba pozadia  | Zmení farbu pozadia |
+
+*Tri bodky v zátvorkách znamenajú, že treba niečo doplniť*
 
 Príkaz *write* sme rozšírili, aby sme mohli zmeniť veľkosť písma, pričom vieme tiež nastaviť aj typ a štýl písma.
 ```python
