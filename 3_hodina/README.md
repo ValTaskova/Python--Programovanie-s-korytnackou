@@ -3,6 +3,9 @@
 Na hodine sme sa zoznámili so súradnicami a ako pomocou nich vieme popísať priestor. Na obrázku vidíme, ako vyzerá súradnicová sústava pre Python korytnačku. Pomocou čísel
 na priamke X (šírka) a Y (výška) si vieme určiť, kde sa daný bod nachádza. Je zaužívané, že najskôr hovoríme súradnicu X (šírku) a potom súradnicu Y (výšku). 
 
+<img src="https://user-images.githubusercontent.com/93611731/196229081-8bde5db1-a115-4c60-b8a4-1dddc4f9cb5c.jpg" height="450" width="500" >
+
+
 Súradnice bodov vieme určiť ako:
 | Bod  | X | Y |
 | ------------- | ------------- | ------------- |
