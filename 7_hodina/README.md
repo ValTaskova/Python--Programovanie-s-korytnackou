@@ -10,7 +10,7 @@ def stvorec():            #definicia funkcie -> nazov + zatvorky
     forward(200)
     pendown()
     for i in range(4):
-        forward(dlzka)
+        forward(100)
         right(90)
               
 stvorec()                 #volanie funkcie
