@@ -4,7 +4,6 @@ Na hodine sme pokračovali s cyklami. Ukázali sme si vnorené cykly, teda cyklu
 museli posunúť a potom sme vykreslili štvorec. Ukázali sme si, čo by sa stalo, keby cykly prehodíme, teda najskôr by sme chceli vykresliť štvorec v prvom cykle a posunúť sa 
 vo vnorenemom cykle. Nakoniec sme si ukázali, že z akéhokoľvek kódu vieme spraviť vlastnú funkciu, ktorú si vieme zavolať. 
 
-**Bez cyklu**
 ```python
 def stvorec():            #definicia funkcie -> nazov + zatvorky
     penup()
@@ -13,8 +12,7 @@ def stvorec():            #definicia funkcie -> nazov + zatvorky
     for i in range(4):
         forward(dlzka)
         right(90)
-        
-        
+              
 stvorec()                 #volanie funkcie
 ```
 
