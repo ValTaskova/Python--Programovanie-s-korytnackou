@@ -36,6 +36,8 @@ if dlzka < 60:    #pokial je cislo v premennej dlzka mensie ako 60, tak sa vykon
 ```
 
 **Príkazy z minulej hodiny:**
+| Príkaz  | Preklad | Čo to znamená |
+| ------------- | ------------- | ------------- |
 | if ... :  | Ak ... | Ak je ... pravda, tak vykonaj to čo následuje |
 
 **Príkazy z minulej hodiny:**
