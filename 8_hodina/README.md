@@ -35,7 +35,7 @@ if dlzka < 60:    #pokial je cislo v premennej dlzka mensie ako 60, tak sa vykon
     dlzka = 60    #nastavi dlzku na hodnotu 60
 ```
 
-**Príkazy z minulej hodiny:**
+**Príkazy z dnešnej hodiny:**
 | Príkaz  | Preklad | Čo to znamená |
 | ------------- | ------------- | ------------- |
 | if ... :  | Ak ... | Ak je ... pravda, tak vykonaj to čo následuje |
