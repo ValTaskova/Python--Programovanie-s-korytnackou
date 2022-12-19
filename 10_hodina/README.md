@@ -1,6 +1,6 @@
 # 10. hodina
 
-Na hodina sme si ukázali dokumentáciu ku korytnačke () a povedali sme si ako s ňou pracovať a hľadať funkcie. Ako príklad sme spravili funkcie pre pohyb korytnačky tam, 
+Na hodina sme si ukázali dokumentáciu ku korytnačke (https://docs.python.org/3/library/turtle.html) a povedali sme si ako s ňou pracovať a hľadať funkcie. Ako príklad sme spravili funkcie pre pohyb korytnačky tam, 
 kde sme klikli a neskôr pomocou šípok. Pre tieto funkcie sme potrebovali spraviť objekt pre obrazovku - screen. Zmenili sme aj tvar korytnačky s možnosťou nakresliť si vlastný tvar.
 
 ```python
@@ -10,6 +10,7 @@ screen = turtle.Screen()
 screen.onscreenclick(hadik.goto)
 ```
 
+Ukázali sme si, že vieme vyhľadávať existujúce kódy na internete napr. Snake game (https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/)
 
 **Príkazy z minulej hodiny:**
 | Príkaz  | Preklad | Čo to znamená |
