@@ -26,6 +26,12 @@ druha = turtle.Turtle()
 prva.goto(-200,100)
 druha.goto(200,100)
 ```
+**Príkazy z dnešnej hodiny:**
+| Príkaz  | Preklad | Čo to znamená |
+| ------------- | ------------- | ------------- |
+| else :  | Inak ... | Inak vykonaj to čo následuje |
+| elif ... :  | Inak ak ... | Alebo ak je ... pravda, tak vykonaj to čo následuje |
+
 
 **Príkazy z minulej hodiny:**
 | Príkaz  | Preklad | Čo to znamená |
