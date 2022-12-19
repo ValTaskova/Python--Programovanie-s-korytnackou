@@ -15,6 +15,17 @@ else :                                    #inak
     write("Kompletna vyhra")
 ```
 
+Nakoniec sme si povedali, že Python je objektový jazyk, a teda vieme si vytvoriť dve korytnačky nezávisle od seba, s vlastny´mi príkazmi. To sú objekty, avšak pokiaľ 
+to v kóde použijeme, tak všetky funkcie musíme prideliť konkrétnemu objektu, inak to nebude správne fungovať. Keď chceme použiť funkciu, musíme to napísať ako 
+*názov-objektu*.*funkcia*.
+
+```python
+prva = turtle.Turtle()
+druha = turtle.Turtle()
+
+prva.goto(-200,100)
+druha.goto(200,100)
+```
 
 **Príkazy z minulej hodiny:**
 | Príkaz  | Preklad | Čo to znamená |
