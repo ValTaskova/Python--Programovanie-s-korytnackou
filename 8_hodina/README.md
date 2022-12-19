@@ -36,6 +36,9 @@ if dlzka < 60:    #pokial je cislo v premennej dlzka mensie ako 60, tak sa vykon
 ```
 
 **Príkazy z minulej hodiny:**
+| if ... :  | Ak ... | Ak je ... pravda, tak vykonaj to čo následuje |
+
+**Príkazy z minulej hodiny:**
 | Príkaz  | Preklad | Čo to znamená |
 | ------------- | ------------- | ------------- |
 | from turtle import *  | Z korytnačky načítaj *  | Načítaj všetky funkcie z knižnice Korytnačka |
@@ -55,6 +58,6 @@ if dlzka < 60:    #pokial je cislo v premennej dlzka mensie ako 60, tak sa vykon
 | goto(*X*, *Y*)  | Choď na  | Presunie korytnačku na dané súradnice |
 | for i in range(...):  | Pre i v rozmedzí ...  | Opakuj ...-krát |
 | randint(...,...)  | Náhodné prirodzené číslo  | Vygeneruje náhodné číslo v rozmedzií od ... po ... |
-| if ... :  | Ak ... | Ak je ... pravda, tak vykonaj to čo následuje |
+
 
 *Tri bodky v zátvorkách znamenajú, že treba niečo doplniť.*
