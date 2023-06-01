@@ -1,7 +1,7 @@
 # 2. hodina
 
 Na hodine sme si zopakovali príkazy, ktoré nám zobrazili korytnačku, posúvali ju, otáčali ju alebo ju spomalili. Ďalej sme si ukázali nové príkazy, ktoré nám upravili
-farbu alebo hrúbku čiary, farbu pozadia, napísalo text a zapli alebo vypli pero. Taktiež sme si hľadali farby na internete, pričom na stránke https://trinket.io/docs/colors
+farbu alebo hrúbku čiary, farbu pozadia, napísalo text a zapli alebo vypli pero. Taktiež sme si hľadali farby na internete, pričom na stránke https://g.co/kgs/Cneak6
 si vieme ľahko zistiť názov farby tým, že na ňu klikneme a skopírujeme jej názov, teda *Turtle name*.
 
 **Príkazy z minulej hodiny:**
